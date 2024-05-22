@@ -1,24 +1,24 @@
-## C++ | STL | Библиотека стандартных шаблонов
-### Источник обучающих материаллов Канал #SimpleCode [Ссылка](https://www.youtube.com/@SimpleCodeIT/featured)
-####  Непосредственный плэйлист занятий [Ссылка](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB)
+п»ї## C++ | STL | Р‘РёР±Р»РёРѕС‚РµРєР° СЃС‚Р°РЅРґР°СЂС‚РЅС‹С… С€Р°Р±Р»РѕРЅРѕРІ
+### РСЃС‚РѕС‡РЅРёРє РѕР±СѓС‡Р°СЋС‰РёС… РјР°С‚РµСЂРёР°Р»Р»РѕРІ РљР°РЅР°Р» #SimpleCode [РЎСЃС‹Р»РєР°](https://www.youtube.com/@SimpleCodeIT/featured)
+####  РќРµРїРѕСЃСЂРµРґСЃС‚РІРµРЅРЅС‹Р№ РїР»СЌР№Р»РёСЃС‚ Р·Р°РЅСЏС‚РёР№ [РЎСЃС‹Р»РєР°](https://www.youtube.com/playlist?list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB)
 
 
 </details> 
 
 <details>
 <summary> 
-vector - lesson_00 | Библиотека стандартных шаблонов (STL) | Уроки | C++ | #1 - Видео №1.
+vector - lesson_00 | Р‘РёР±Р»РёРѕС‚РµРєР° СЃС‚Р°РЅРґР°СЂС‚РЅС‹С… С€Р°Р±Р»РѕРЅРѕРІ (STL) | РЈСЂРѕРєРё | C++ | #1 - Р’РёРґРµРѕ в„–1.
 </summary>
 
-* [Ссылка на видео - №1](https://www.youtube.com/watch?v=1cKvMZOJeeE&list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&index=1&t=1s)
+* [РЎСЃС‹Р»РєР° РЅР° РІРёРґРµРѕ - в„–1](https://www.youtube.com/watch?v=1cKvMZOJeeE&list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&index=1&t=1s)
 
 </details>
 
 <details>
 <summary> 
-тераторы STL - lesson_01 | Библиотека стандартных шаблонов (stl) | Уроки | C++ | #2 - Видео №2.
+С‚РµСЂР°С‚РѕСЂС‹ STL - lesson_01 | Р‘РёР±Р»РёРѕС‚РµРєР° СЃС‚Р°РЅРґР°СЂС‚РЅС‹С… С€Р°Р±Р»РѕРЅРѕРІ (stl) | РЈСЂРѕРєРё | C++ | #2 - Р’РёРґРµРѕ в„–2.
 </summary>
 
-* [Ссылка на видео - №2](https://www.youtube.com/watch?v=jLPqLW2Bp_w&list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&index=2)
+* [РЎСЃС‹Р»РєР° РЅР° РІРёРґРµРѕ - в„–2](https://www.youtube.com/watch?v=jLPqLW2Bp_w&list=PLQOaTSbfxUtDWAtIYme5MLZ1l0GTyUYkB&index=2)
 
 </details> 
