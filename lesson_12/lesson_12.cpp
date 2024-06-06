@@ -1,4 +1,4 @@
-// STL Алгоритмы сортировки | Бинарный предикат | Лямбда функции | C++ STL Уроки | #13 - Видео №13.
+п»ї// STL РђР»РіРѕСЂРёС‚РјС‹ СЃРѕСЂС‚РёСЂРѕРІРєРё | Р‘РёРЅР°СЂРЅС‹Р№ РїСЂРµРґРёРєР°С‚ | Р›СЏРјР±РґР° С„СѓРЅРєС†РёРё | C++ STL РЈСЂРѕРєРё | #13 - Р’РёРґРµРѕ в„–13.
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -44,7 +44,7 @@ int main()
 {
 	setlocale(LC_ALL,"ru");
 
-	cout << "Метод сортировки вектора." << endl;
+	cout << "РњРµС‚РѕРґ СЃРѕСЂС‚РёСЂРѕРІРєРё РІРµРєС‚РѕСЂР°." << endl;
 
 	vector<int> v = {9,32,15,6,7,2,5,4};
 
@@ -58,7 +58,7 @@ int main()
 		cout << element << endl;
 	}
 
-	cout << "Метод сортировки массива." << endl;
+	cout << "РњРµС‚РѕРґ СЃРѕСЂС‚РёСЂРѕРІРєРё РјР°СЃСЃРёРІР°." << endl;
 
 	const int SIZE = 7;
 
@@ -71,29 +71,29 @@ int main()
 		cout << element << endl;
 	}
 
-	cout << "Метод сортировки вектора, по баллам студентов." << endl;
+	cout << "РњРµС‚РѕРґ СЃРѕСЂС‚РёСЂРѕРІРєРё РІРµРєС‚РѕСЂР°, РїРѕ Р±Р°Р»Р»Р°Рј СЃС‚СѓРґРµРЅС‚РѕРІ." << endl;
 
 	vector<Person> people 
 	{
-		Person("Петя ",181),
-		Person("Вася ",30),
-		Person("Сергей ",179),
-		Person("Алексей ",200),
-		Person("Валера ",198),
-		Person("Кирилл ",181),
-		Person("Антон ",50),
-		Person("Костя ",150),
+		Person("РџРµС‚СЏ ",181),
+		Person("Р’Р°СЃСЏ ",30),
+		Person("РЎРµСЂРіРµР№ ",179),
+		Person("РђР»РµРєСЃРµР№ ",200),
+		Person("Р’Р°Р»РµСЂР° ",198),
+		Person("РљРёСЂРёР»Р» ",181),
+		Person("РђРЅС‚РѕРЅ ",50),
+		Person("РљРѕСЃС‚СЏ ",150),
 	};
 
 	sort(people.begin(), people.end(), [](Person &p1, const Person &p2)
 	{
-			bool result = p1.Score < p2.Score; // Если хотим сортировку по алфавиту, то прописываем (Name вместо Score).
+			bool result = p1.Score < p2.Score; // Р•СЃР»Рё С…РѕС‚РёРј СЃРѕСЂС‚РёСЂРѕРІРєСѓ РїРѕ Р°Р»С„Р°РІРёС‚Сѓ, С‚Рѕ РїСЂРѕРїРёСЃС‹РІР°РµРј (Name РІРјРµСЃС‚Рѕ Score).
 			return result;
 	});
 
 	for (auto element : people)
 	{
-		cout << "Имя:\t" << element.Name << "\tбаллы\t" << element.Score << endl;
+		cout << "РРјСЏ:\t" << element.Name << "\tР±Р°Р»Р»С‹\t" << element.Score << endl;
 	}
 
 	return 0;
