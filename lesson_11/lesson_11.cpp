@@ -1,4 +1,4 @@
-﻿// queue | priority queue | Адаптеры контейнеров | Библиотека стандартных шаблонов (stl) | C++ #12 - Видео №12.
+﻿// queue | priority queue | Адаптеры контейнеров | Библиотека стандартных шаблонов (stl) | C++ #12 - Видео №12..
 
 #include<iostream>
 #include<vector>
